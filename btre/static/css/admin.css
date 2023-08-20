@@ -1,0 +1,38 @@
+#header {
+    height: 70px;
+    background: #10284e;
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a:link,
+a:visited {
+    color: #10284e;
+}
+
+div.breadcrumbs {
+    background: #10284e;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+    background: #10284e;
+}
+
+.theme-toggle svg.theme-icon-when-auto, 
+.theme-toggle svg.theme-icon-when-dark, 
+.theme-toggle svg.theme-icon-when-light {
+    color: #10284e;
+}
+
+div.breadcrumbs {
+    padding: 20px 50px;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #10284e;
+}
